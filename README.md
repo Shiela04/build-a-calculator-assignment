@@ -44,8 +44,12 @@ This project is a command-line calculator built in Node.js that can perform the 
 - Unsupported operator: An error message will be displayed if the operator used is not one of the operators: +, -, \*, /.
 - Division by zero: An error message will be displayed if you divide by zero.
 
-## Challenges I Encounterednodecano
+## Challenges I Encountered
 
 ### Validating Input
 
 I was using the Git Bash terminal to validate inputs. I noticed that the operators \* and / are not working and I thought it was a problem in my code. After hours of researching, I learned that it might be a problem with the terminal so I switched to Powershell and my code works just fine.
+
+## License
+
+This project is licensed under MIT License. See the [License](LICENSE.md) file for more details.
